@@ -13,3 +13,9 @@ states/
 # Optional
 .env
 .env.local
+
+# Output contracts
+/out
+
+# Local cache
+/cache
